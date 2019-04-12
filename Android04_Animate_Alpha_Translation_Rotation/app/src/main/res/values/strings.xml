@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android04_Animate_Alpha_Translation_Rotation</string>
+    <string name="image">asterix</string>
+    <string name="alpha">alpha</string>
+    <string name="scale">scale</string>
+    <string name="translation">translation</string>
+    <string name="rotate">rotation</string>
+</resources>

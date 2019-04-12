@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android03_Toast_ImageView_changeImageResource</string>
+    <string name="button">Change image</string>
+    <string name="image">Image</string>
+</resources>
