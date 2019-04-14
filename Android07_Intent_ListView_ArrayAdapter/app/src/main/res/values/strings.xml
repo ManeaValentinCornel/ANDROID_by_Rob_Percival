@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android07_Intent_ListView_ArrayAdapter</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
