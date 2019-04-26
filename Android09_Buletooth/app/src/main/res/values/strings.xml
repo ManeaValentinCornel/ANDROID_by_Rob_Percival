@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android09_Buletooth</string>
+    <string name="btn_turnON">Turn ON</string>
+    <string name="btn_discover">Find Discoverable Devices</string>
+    <string name="btn_viewPaired">View Paired Devices</string>
+    <string name="txt_bluetooth"></string>
+    <string name="btn_turnOFF">Turn OFF</string>
+</resources>
